@@ -77,6 +77,7 @@ int main()
 ptr=(char*)malloc(100*sizeof(char));
 getquestion();
 replacement();
+//guess();
 guess();
 return 0;
 }
